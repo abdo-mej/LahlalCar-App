@@ -1,45 +1,105 @@
-# LahlalCar Manager FR PRO
+# 🚗 LahlalCar Manager — Car Rental Management System
 
-Application complète en français pour la gestion d'une agence de location de voitures.
+> Application web professionnelle pour la gestion d’une agence de location de voitures.
+
+---
+
 ## 🌐 Live Demo
-https://lahlalcar.infinityfree.me
 
-## Technologies
-- PHP 8+
-- MySQL / SQL
-- HTML
-- CSS
-- JavaScript
+👉 **https://lahlalcar.infinityfree.me**
 
-## Installation
-1. Démarrer MySQL dans XAMPP.
-2. Extraire le dossier.
-3. Lancer `start_app.bat`.
-4. Ouvrir `http://127.0.0.1:8080/install.php`.
-5. Cliquer sur installer.
-6. Ouvrir `http://127.0.0.1:8080`.
+---
 
-## Comptes
-- Admin : `admin / admin123`
-- Gérant : `gerant / gerant123`
-- Agent : `agent / agent123`
-- Comptable : `comptable / comptable123`
-- Mécanicien : `mecanicien / mecanicien123`
+## ⚡ Présentation
 
-## Modules
-- Tableau de bord
-- Clients
-- Véhicules
-- Réservations
-- Contrats imprimables/PDF
-- Deuxième conducteur optionnel dans le contrat
-- Paiements
-- Maintenance
-- Rapports
-- Utilisateurs et rôles
+LahlalCar est une application complète permettant de gérer efficacement une agence de location de véhicules.
 
-## Logique corrigée
-- Pas de saisie d'ID par l'utilisateur : sélection par nom/client/véhicule.
-- Le 2e conducteur est une option dans la réservation/contrat.
-- Accès limités selon rôle.
-- Bouton de déconnexion dans le menu.
+Elle centralise toutes les opérations métier :
+- gestion des clients
+- gestion du parc automobile
+- réservations
+- contrats
+- paiements
+- maintenance et alertes
+
+---
+
+## 🧩 Fonctionnalités
+
+- 📁 Gestion des clients
+- 🚗 Gestion des véhicules
+- 📅 Réservations
+- 📄 Génération de contrats
+- 💳 Suivi des paiements
+- 🔧 Maintenance & alertes techniques
+- 👤 Gestion des utilisateurs & rôles
+
+---
+
+## 🎯 Objectif
+
+Ce projet a été réalisé dans le cadre de mon développement personnel afin de :
+
+- maîtriser le développement web complet
+- concevoir une logique métier réelle
+- manipuler bases de données relationnelles
+- déployer une application en production
+
+---
+
+## 📸 Aperçu
+
+### 🔐 Connexion
+![Login](assets/screenshots/login.png)
+
+### 📊 Tableau de bord
+![Dashboard](assets/screenshots/tableau-de-bord.png)
+
+### 🚗 Gestion véhicules
+![Voitures](assets/screenshots/voitures.png)
+
+---
+
+## 🛠️ Technologies
+
+- PHP
+- MySQL
+- HTML / CSS / JavaScript
+- Architecture MVC simple
+- Déploiement web (InfinityFree)
+
+---
+
+## 🔒 Code source
+
+Le code source de cette application est privé.
+
+📩 Disponible sur demande pour les recruteurs.
+
+---
+
+## 👨‍💻 À propos
+
+**Abderrahmane Mejdoubi**  
+Développeur Full-Stack — Recherche d’alternance  
+
+🎓 Admis à EPISEN (Systèmes d’Information)  
+💻 Licence Informatique Appliquée  
+📌 DUT Développement Informatique  
+
+---
+
+## 🔗 Portfolio
+
+👉 https://portfolio-abderrahmane-mejdoubi.vercel.app/
+
+---
+
+## 📩 Contact
+
+📧 Email : (mets ton email ici)  
+🔗 LinkedIn : (optionnel)
+
+---
+
+⭐ N'hésitez pas à tester l’application et à me contacter !
