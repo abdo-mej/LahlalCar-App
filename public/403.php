@@ -1,1 +1,0 @@
-<?php require_once __DIR__.'/../app/layout.php'; render_header('Accès refusé'); ?><section class="panel"><h2>Accès refusé</h2><p>Votre rôle ne permet pas d’accéder à cette partie.</p><a href="/index.php" class="btn">Retour</a></section><?php render_footer(); ?>
