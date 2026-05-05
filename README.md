@@ -53,10 +53,10 @@ Ce projet a été réalisé dans le cadre de mon développement personnel afin d
 ![Login](assets/screenshots/login_car.png)
 
 ### 📊 Tableau de bord
-![Dashboard](LahlalCar/assets/screenshots/tableau-de-bord.png)
+![Dashboard](assets/screenshots/tableau-de-bord.png)
 
 ### 🚗 Gestion véhicules
-![Voitures](LahlalCar/assets/screenshots/reservation.png)
+![Voitures](assets/screenshots/reservation.png)
 
 ---
 
