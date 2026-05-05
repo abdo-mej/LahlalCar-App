@@ -50,7 +50,7 @@ Ce projet a été réalisé dans le cadre de mon développement personnel afin d
 ## 📸 Aperçu
 
 ### 🔐 Connexion
-![Login](LahlalCar/assets/screenshots/login_car.png)
+![Login](assets/screenshots/login_car.png)
 
 ### 📊 Tableau de bord
 ![Dashboard](LahlalCar/assets/screenshots/tableau-de-bord.png)
