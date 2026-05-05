@@ -50,13 +50,13 @@ Ce projet a été réalisé dans le cadre de mon développement personnel afin d
 ## 📸 Aperçu
 
 ### 🔐 Connexion
-![Login](assets/screenshots/login.png)
+![Login](assets/screenshots/login_car.png)
 
 ### 📊 Tableau de bord
 ![Dashboard](assets/screenshots/tableau-de-bord.png)
 
 ### 🚗 Gestion véhicules
-![Voitures](assets/screenshots/voitures.png)
+![Voitures](assets/screenshots/reservation.png)
 
 ---
 
