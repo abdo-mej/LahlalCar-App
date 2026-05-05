@@ -3,7 +3,11 @@
 > Application web professionnelle pour la gestion d’une agence de location de voitures.
 
 ---
-
+<p align="center">
+  <a href="https://lahlalcar.infinityfree.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 ## 🌐 Live Demo
 
 👉 **https://lahlalcar.infinityfree.me**
