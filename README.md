@@ -50,13 +50,13 @@ Ce projet a été réalisé dans le cadre de mon développement personnel afin d
 ## 📸 Aperçu
 
 ### 🔐 Connexion
-![Login](assets/screenshots/login_car.png)
+![Login](LahlalCar/assets/screenshots/login_car.png)
 
 ### 📊 Tableau de bord
-![Dashboard](assets/screenshots/tableau-de-bord.png)
+![Dashboard](LahlalCar/assets/screenshots/tableau-de-bord.png)
 
 ### 🚗 Gestion véhicules
-![Voitures](assets/screenshots/reservation.png)
+![Voitures](LahlalCar/assets/screenshots/reservation.png)
 
 ---
 
